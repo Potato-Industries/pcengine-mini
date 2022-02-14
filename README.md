@@ -17,7 +17,7 @@ screen /dev/ttyUSB0 115200
 
 Power on device spam 's' key on screen console.
 
-Getting root shell via sunxi console.
+Getting root shell via uboot console.
 
 ```
 sunxi#setenv init /bin/sh
