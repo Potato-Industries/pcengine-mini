@@ -1,6 +1,6 @@
 # pcengine-mini
 
-Some rough notes on getting root and getting FEL on the PCEngine Mini (i couldn't easily find anything online).
+Some rough notes on getting root and FEL mode on the PCEngine Mini (i couldn't easily find anything online).
 
 Ref:
 
@@ -62,7 +62,7 @@ Retype password:
 Password for root changed by root
 ```
 
-Power cycle the device, your good to go, passwd changes are persisted. 
+Power cycle the device, you are good to go, passwd changes are persisted. 
 
 ```
 / # �[      0.203]
